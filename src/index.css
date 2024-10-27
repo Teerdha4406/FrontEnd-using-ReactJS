@@ -1,0 +1,45 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f9fc;
+  color: #333;
+}
+
+.app {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #4A90E2;
+  padding: 15px;
+}
+
+.nav-link {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 20px;
+}
+
+/* Styling for the home page */
+.home {
+  margin-top: 20px;
+}
+
+.home h1 {
+  color: #4A90E2;
+}
+
+.home p {
+  font-size: 1.1em;
+  color: #666;
+}
